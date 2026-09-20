@@ -1,5 +1,5 @@
 # Marketing Analytics Project
-
+<img width="1892" height="1006" alt="Tableau Project" src="https://github.com/user-attachments/assets/18fc8c3a-a311-4dfa-8e59-66813962f437" />
 ## About the Project
 
 This project is about analyzing restaurant data.
